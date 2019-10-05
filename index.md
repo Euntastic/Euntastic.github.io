@@ -1,5 +1,6 @@
-# Index Page
+# Resources
 
 ## Classes
 
-### Subclasses
+### Links
+[Inbox Zero](https://flow-e.com/inbox-zero/)
