@@ -3,16 +3,17 @@
 - [Inbox Zero](https://flow-e.com/inbox-zero/)
 
 ## Awesome Lists
-
 - [Awesome list of Awesomeness](https://github.com/bayandin/awesome-awesomeness)
 
 ## Books
 
 # Software
 
-- Windows Specific
+## Windows Specific
     - [Scoop](https://scoop.sh/): A command-line installer for Windows
-- IDES
+
+
+## IDES
     - [Sublime Text](https://www.sublimetext.com/)
     - [VSCodium](https://github.com/VSCodium/vscodium): Microsoftless VSCode.
     - [VSCode](https://code.visualstudio.com/): Microsoft VSCode
