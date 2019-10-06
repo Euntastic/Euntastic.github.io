@@ -1,6 +1,8 @@
 # 101 Days Of Code - Log
 -----
 The log of my #100DaysOfCode challenge. Started 10/06/2019
+Focused on C++
+Useful Links
 -----
 
 ## Day 00: 10 06, 2019 (Example.)

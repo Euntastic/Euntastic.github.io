@@ -8,6 +8,7 @@ Hi
 ## Learning
 ---
 ### References
+- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge): A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [Table of Stuff](https://tablesofstuff.com/): ASCII, HTML Entities, ISOs.
 ### Programming Languages
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
