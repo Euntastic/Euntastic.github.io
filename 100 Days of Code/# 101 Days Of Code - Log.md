@@ -4,16 +4,19 @@ The log of my #100DaysOfCode challenge. Started 10/06/2019
 Focused on C++
 Useful Links
 [Awesome C++](https://github.com/fffaraz/awesome-cpp)
-[30 Seconds of C++](https://github.com/Bhupesh-V/30-seconds-of-cpp)
+[Code Projects](https://code-projects.org/)
+[Geeksforgeeks](https://www.geeksforgeeks.org/c-classes-and-objects/)
 -----
 
 ## Day 00: 10 06, 2019
 ---
-**Today's Progress:**
+**Today's Progress:** Start: Working on commenting Code-Projects sample. Taking notes from Geeksforgeeks.
 
-**Thoughts:**
+**Thoughts:** Try to reword yourself please.
 
-**Link to Work:**
+**Link to Work:** 
+- [Code](euntastic/100 Days of Code/CMS.cpp)
+- [Notes](euntastic/Notes/C++ Notes.md)
 
 ## Day 01: 10 00, 2019
 ---
