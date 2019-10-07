@@ -3,6 +3,7 @@ Hi
 # Pondering Hell
 - [Code Projects](https://code-projects.org)
 - [Privacy Tools](https://www.privacytools.io/index.html): You are being watched. Private and state-sponsored organizations are monitoring and recording your online activities. privacytools.io provides services, tools and knowledge to protect your privacy against global mass surveillance.
+- [Codewars](https://www.codewars.com/)
 
 # Self Improvement
 ---
