@@ -4,6 +4,10 @@ Hi
 - [Code Projects](https://code-projects.org)
 - [Privacy Tools](https://www.privacytools.io/index.html): You are being watched. Private and state-sponsored organizations are monitoring and recording your online activities. privacytools.io provides services, tools and knowledge to protect your privacy against global mass surveillance.
 - [Codewars](https://www.codewars.com/)
+- [SFML](https://www.sfml-dev.org/): Dev of games and multimedia applications.
+- [SDL](https://www.libsdl.org/): Cross-platform development library.
+- [ADAM](https://unity3d.com/pages/adam): Impressive short film created with unity and rendered in real time.
+- [Magnum Engine](https://magnum.graphics/): Open source library for graphis abstraction.  
 
 # Self Improvement
 ---
